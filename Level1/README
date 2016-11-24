@@ -1,0 +1,2 @@
+Welcome to Level One of Cryptogames!!
+In the home folder you can find an executable by name encrypt, which takes a role of a simple encryption oracle. The executable itself is not readable by user. It takes UTF-8 encoded plaintext and outputs encoded ciphertext. Goal is to figure out the encryption method, password and decryption method. 
